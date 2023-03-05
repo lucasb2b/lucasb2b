@@ -31,7 +31,7 @@ Eu sou Lucas, desenvolvedor Full Stack, amo programar coisas, especialmente em P
 <a href="https://www.youtube.com/@hardwareeafins" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/lucasb2b/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasb2b/lucasb2b/blob/output/github-contribution-grid-snake.svg)
           
           
 
