@@ -66,9 +66,9 @@ Atuar como Desenvolvedor Full Stack JavaScript Jr, contribuindo com código limp
 
 ## 📌 Projetos em Destaque
 
-🔹 [Zaptro – E-commerce Frontend (English Version)](https://github.com/lucasb2b/zaptro) – E-commerce frontend desenvolvido em React.js com consumo de API REST, gerenciamento de estado para carrinho de compras, sistema de notificações e layout responsivo.
-🔹 [Blog API TypeScript](https://github.com/lucasb2b/blog-api-ts) – API REST desenvolvida em Node.js com TypeScript, Express e MongoDB, implementando autenticação JWT, CRUD completo e validação de dados.
-🔹 [Plataforma de Financiamento Coletivo com Criptomoedas(English version)](https://github.com/lucasb2b/web3cfapp) – Plataforma descentralizada de financiamento coletivo utilizando smart contracts em Solidity. Frontend desenvolvido com Next.js, TypeScript e TailwindCSS, com integração de carteiras Web3 (MetaMask) para interação com a blockchain.
+🔹 [Zaptro – E-commerce Frontend (English Version)](https://github.com/lucasb2b/zaptro) – E-commerce frontend desenvolvido em React.js com consumo de API REST, gerenciamento de estado para carrinho de compras, sistema de notificações e layout responsivo.<br/>
+🔹 [Blog API TypeScript](https://github.com/lucasb2b/blog-api-ts) – API REST desenvolvida em Node.js com TypeScript, Express e MongoDB, implementando autenticação JWT, CRUD completo e validação de dados.<br/>
+🔹 [Plataforma de Financiamento Coletivo com Criptomoedas(English version)](https://github.com/lucasb2b/web3cfapp) – Plataforma descentralizada de financiamento coletivo utilizando smart contracts em Solidity. Frontend desenvolvido com Next.js, TypeScript e TailwindCSS, com integração de carteiras Web3 (MetaMask) para interação com a blockchain.<br/>
 
 ---
 
