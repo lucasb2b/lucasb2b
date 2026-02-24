@@ -1,51 +1,79 @@
-### 😀 Olá!! prazer em conhecer você sou desenvolvedor Full Stack JavaScript.
-<hr />
-Bem vindo a minha página do GitHub!
-Eu sou Lucas, desenvolvedor Full Stack, amo programar coisas, especialmente em PHP e JavaScript, adoro programar na Web e Mobile, programação é a minha paixão. Também sou criador do <a href="https://www.youtube.com/@hardwareeafins" target="_blank">Hardware e Afins</a>, Canal de conteúdo retrô(com foco em software e hardware retrô).
+# Lucas Brito
 
-### GitHub Stats
-[![Lucas B. Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasb2b&show_icons=true&theme=dracula)](https://github.com/lucasb2b/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasb2b&layout=compact&langs_count=8&theme=dracula)](https://github.com/lucasb2b/github-readme-stats)
+Full Stack JavaScript Developer  
+Node.js | React | Next.js | SQL & NoSQL | Web3
 
+---
 
+## 👨‍💻 Sobre mim
 
-### Linguagens e ferramentas que uso para programar
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50"/>          
-</div>
+Sou desenvolvedor Full Stack com foco no ecossistema JavaScript, desenvolvendo aplicações web completas com frontend em React/Next.js e backend em Node.js.
 
-### Contate-me
-<hr/> 
-<div>
-<a href="https://www.linkedin.com/in/lucas-lima-brito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:lucasbritocientista@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/limalucasb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/@hardwareeafins" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div>
+Experiência no desenvolvimento de APIs REST, autenticação com JWT, integração com bancos SQL e NoSQL, consumo de APIs externas e deploy de aplicações em ambiente Linux/VPS.
 
-![Snake animation](https://github.com/lucasb2b/lucasb2b/blob/output/github-contribution-grid-snake.svg)
-          
-          
+Busco oportunidades profissionais como Desenvolvedor Full Stack Jr para contribuir com o time e evoluir tecnicamente.
 
-<!--
-**lucasb2b/lucasb2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ....
-- ⚡ Fun fact: ...
--->
+Atuar como Desenvolvedor Full Stack JavaScript Jr, contribuindo com código limpo, boas práticas e evolução contínua da equipe.
+
+---
+
+## 🚀 Diferenciais
+
+- Experiência com projetos Full Stack completos
+- Integração com APIs externas
+- Deploy em VPS Linux
+- Conhecimento em Web3 e Smart Contracts
+
+## 🛠️ Stack Principal
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express
+- APIs REST
+- Autenticação (JWT)
+- Integração com serviços externos
+
+### Banco de Dados
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### DevOps / Ambiente
+- Linux
+- Git & GitHub
+- Deploy em VPS
+- Docker (estudando)
+
+### Web3
+- Solidity
+- Smart Contracts
+- Integração com MetaMask
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 [Zaptro – E-commerce Frontend (English Version)](https://github.com/lucasb2b/zaptro) – E-commerce frontend desenvolvido em React.js com consumo de API REST, gerenciamento de estado para carrinho de compras, sistema de notificações e layout responsivo.
+🔹 [Blog API TypeScript](https://github.com/lucasb2b/blog-api-ts) – API REST desenvolvida em Node.js com TypeScript, Express e MongoDB, implementando autenticação JWT, CRUD completo e validação de dados.
+🔹 [Plataforma de Financiamento Coletivo com Criptomoedas(English version)](https://github.com/lucasb2b/web3cfapp) – Plataforma descentralizada de financiamento coletivo utilizando smart contracts em Solidity. Frontend desenvolvido com Next.js, TypeScript e TailwindCSS, com integração de carteiras Web3 (MetaMask) para interação com a blockchain.
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/lucas-lima-brito/  
+Email: lucasbritocientista@gmail.com  
+YouTube (Projeto pessoal): https://www.youtube.com/@hardwareeafins
