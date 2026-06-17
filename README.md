@@ -1,79 +1,72 @@
 # Lucas Brito
 
-Full Stack JavaScript Developer  
-Node.js | React | Next.js | SQL & NoSQL | Web3
+Desenvolvedor Backend Java | Spring Boot | AWS | Full Stack JavaScript
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com foco no ecossistema JavaScript, desenvolvendo aplicações web completas com frontend em React/Next.js e backend em Node.js.
+Sou Desenvolvedor de Software Backend focado no ecossistema Java e Spring Boot. Tenho experiência prática na arquitetura, desenvolvimento e deploy de APIs RESTful estruturadas, modelagem de bancos de dados relacionais e infraestrutura em nuvem (AWS). 
 
-Experiência no desenvolvimento de APIs REST, autenticação com JWT, integração com bancos SQL e NoSQL, consumo de APIs externas e deploy de aplicações em ambiente Linux/VPS.
+Embora meu foco de atuação seja o backend, possuo uma base sólida no desenvolvimento de interfaces, tendo trabalhado com HTML, CSS, JavaScript, React e Next.js. Sou comprometido com a escrita de código limpo, testável e de alto desempenho, aplicando princípios SOLID e padrões recomendados pelo mercado. 
 
-Busco oportunidades profissionais como Desenvolvedor Full Stack Jr para contribuir com o time e evoluir tecnicamente.
+Estou habituado a atuar na resolução proativa de incidentes e otimização de recursos, e busco oportunidades para contribuir no desenvolvimento de aplicações corporativas utilizando metodologias ágeis e versionamento de código estruturado.
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedor Full Stack JavaScript Jr, contribuindo com código limpo, boas práticas e evolução contínua da equipe.
+Atuar como Desenvolvedor Backend / Java Júnior, contribuindo com a construção de arquiteturas escaláveis, integrações seguras e manutenção de sistemas corporativos, trazendo também minha visão Full Stack para facilitar a comunicação com as equipes de front-end.
 
 ---
 
 ## 🚀 Diferenciais
 
-- Experiência com projetos Full Stack completos
-- Integração com APIs externas
-- Deploy em VPS Linux
-- Conhecimento em Web3 e Smart Contracts
+- Arquitetura e deploy de APIs RESTful estruturadas e seguras.
+- Automação de fluxos operacionais e geração de relatórios comerciais.
+- Otimização de consultas SQL e persistência de dados.
+- Visão Full Stack com capacidade de atuar em manutenções de interfaces web.
+
+---
 
 ## 🛠️ Stack Principal
 
-### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- APIs REST
-- Autenticação (JWT)
-- Integração com serviços externos
+### Backend & Frameworks
+- Java
+- Spring Boot | Spring Data JPA | Spring Security
+- Groovy
+- JUnit
 
 ### Banco de Dados
+- PostgreSQL | MySQL
 - MongoDB
-- MySQL
-- PostgreSQL
 
-### DevOps / Ambiente
-- Linux
-- Git & GitHub
-- Deploy em VPS
-- Docker (estudando)
+### Frontend
+- HTML5 | CSS3 | JavaScript
+- React | Next.js
 
-### Web3
-- Solidity
-- Smart Contracts
-- Integração com MetaMask
+### Infraestrutura, DevOps & Ferramentas
+- Git & GitHub Actions
+- AWS (EC2, RDS)
+- Docker
+- Swagger / OpenAPI
+- RabbitMQ | Redis (Cache)
+- JasperReports
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔹 [Zaptro – E-commerce Frontend (English Version)](https://github.com/lucasb2b/zaptro) – E-commerce frontend desenvolvido em React.js com consumo de API REST, gerenciamento de estado para carrinho de compras, sistema de notificações e layout responsivo.<br/>
-🔹 [Blog API TypeScript](https://github.com/lucasb2b/blog-api-ts) – API REST desenvolvida em Node.js com TypeScript, Express e MongoDB, implementando autenticação JWT, CRUD completo e validação de dados.<br/>
-🔹 [Plataforma de Financiamento Coletivo com Criptomoedas(English version)](https://github.com/lucasb2b/web3cfapp) – Plataforma descentralizada de financiamento coletivo utilizando smart contracts em Solidity. Frontend desenvolvido com Next.js, TypeScript e TailwindCSS, com integração de carteiras Web3 (MetaMask) para interação com a blockchain.<br/>
+🔹 **[Tremzin – Encurtador de URL (Backend)](https://github.com/lucasb2b/short-link)** – Serviço de encurtamento construído com Java e Spring Boot. Implementei a geração de hashes, controle de expiração de links e invalidação no banco de dados. Otimizado com Redis para cache e processamento assíncrono utilizando RabbitMQ.
+
+🔹 **[CoderBank – API de Movimentação Financeira](https://github.com/lucasb2b/api-movimentacao-financeira)** – API RESTful para gestão de contas e pagamentos desenvolvida em Spring Boot e PostgreSQL. Focada na segurança e atomicidade das transferências (utilizando `@Transactional`) e otimização de endpoints de extratos com paginação. Deploy realizado na AWS (EC2 e RDS).
+
+🔹 **[Gestão de Clientes e Orçamentos](https://github.com/lucasb2b/clientes-cadastro)** – Sistema desenvolvido em Java e MySQL para automação de processos comerciais. Inclui integração nativa com JasperReports para geração de relatórios e exportação de documentos.
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/lucas-lima-brito/  
-Email: lucasbritocientista@gmail.com  
-YouTube (Projeto pessoal): https://www.youtube.com/@hardwareeafins
+- **LinkedIn:** https://www.linkedin.com/in/lucas-lima-brito/
+- **Email:** lucasbritocientista@gmail.com
+- **YouTube:** https://www.youtube.com/@hardwareeafins
